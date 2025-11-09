@@ -453,4 +453,5 @@ g++ main.cpp geometry/*.cpp -I geometry -o geometry.exe
 ---
 
 **🎯 Fin du Projet MATH**  
+
 *"Maîtriser les fondations pour construire l'avenir"* 🚀
